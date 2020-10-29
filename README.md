@@ -16,10 +16,9 @@ Python logic and recipes for automatic cooking
 [See it in action on YouTube](https://youtu.be/poE4O6JZY0E) | 
 [Read more about the project on DesignSpark](https://www.rs-online.com/designspark/student-innovation-onionbot-building-a-robot-sous-chef)
 
-
 ### About 
 
-![Sauce](https://user-images.githubusercontent.com/32883278/97640295-5adf3380-1a38-11eb-9287-349cc64aed16.JPG)
+![sauce](https://user-images.githubusercontent.com/32883278/97644522-6e8f9780-1a42-11eb-8672-963667e5b7dd.jpeg)
 
 The OnionBot sous chef can:
 
@@ -39,8 +38,6 @@ An example of how the sous chef can use image classification to provide assitive
 
 
 ### System structure
-
-![Screenshot 2020-06-09 at 21 40 54](https://user-images.githubusercontent.com/32883278/84198237-270c6d00-aa9b-11ea-9481-0a2cd971f2a7.png)
 
 `API.py` API for showing recipe steps (messages) on screen and controlling recipe progress
 
